@@ -1,8 +1,8 @@
 class Termissh < Formula
   desc "Terminal manager for your SSH config: search, connect and edit hosts"
   homepage "https://github.com/Sumit189/TermiSSH"
-  url "https://github.com/Sumit189/TermiSSH/archive/refs/tags/v1.3.1.tar.gz"
-  sha256 "ca82973872207da28caf1ce05025b60f00b595594288ef3fd595f0039d2cd430"
+  url "https://github.com/Sumit189/TermiSSH/archive/refs/tags/v1.3.2.tar.gz"
+  sha256 "cd6136735b5fa45ffb5466047414001bd7a3329276fc93c5f4f8001b9cde5716"
   license "PolyForm-Noncommercial-1.0.0"
   head "https://github.com/Sumit189/TermiSSH.git", branch: "main"
 
